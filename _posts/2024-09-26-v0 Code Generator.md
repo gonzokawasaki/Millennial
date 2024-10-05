@@ -1,3 +1,11 @@
+---
+layout: post
+title: "AI Code Generator"
+author: "Gonzo"
+categories: posts
+tags: [AI,Frontend]
+image: 051024-V0.png
+---
 
 ![alt text](https://github.com/gonzokawasaki/gonzokawasaki.github.io/blob/0f90356a31c9150b99ced0f1b34324e9e93931bb/assets/img/051024-V0.png "Vo Screenshot")
 
