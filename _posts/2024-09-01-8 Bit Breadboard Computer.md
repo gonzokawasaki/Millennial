@@ -4,7 +4,7 @@ title: "8 Bit Breadbaord"
 author: "Gonzo"
 categories: posts
 tags: [8bit]
-image: 071024breadboardcomp.jpg
+image: 071024breadboardcomp.jpeg
 ---
 
 Ben Eater teaches computing and electronics. Perhaps the most extra ordinary things he has done is build an 8-bit computer on breadboards.
