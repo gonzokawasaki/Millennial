@@ -8,7 +8,6 @@ tags: [electronics, 3D modelling]
 image: tinkercad071024.png
 ---
 
-![Alt text](https://github.com/gonzokawasaki/gonzokawasaki.github.io/blob/38bf61d2da5efb77d87b7900dda1fe7159a15eb2/assets/img/tinkercad071024.png)
 
 
 One of the best online teaching resources I have used during the lockdowns has been Tinkercad. Tinkercad allows students to explore electronics and 3D modelling.
