@@ -1,4 +1,11 @@
-##ESP32 VR Controller
+---
+layout: post
+title: "ESP32 VR Controller"
+author: "Gonzo"
+categories: posts
+tags: [SFX, Compositing]
+image: 071024esp32vrcontroller.jpeg
+---
 
 I recently bought a couple of ESP32s to try and build a VR controller. This was inspired by my desire to make a cheap VR controller to use with my Note 9 phone rather than spending thousands of dollars on a VR setup.
 
@@ -10,6 +17,5 @@ For the motion input I bought a GY521. This very cheap module gives rotation dat
 
 So far so good. Initial tests are pretty simple but eventually it needs to be assigned as a composite HID input device and the data fed into a VR environment. I am guessing this is going to be the tricky bit.
 
-[![Whatch the video](https://img.youtube.com/vi/P0JaLZ5-NdY/sddefault.jpg)](https://www.youtube.com/watch?v=P0JaLZ5-NdY)
+[video of my esp32 vr controller](https://www.youtube.com/watch?v=P0JaLZ5-NdY)
 
-![Alt Text](https://i.imgur.com/7kagkAy.jpeg)
