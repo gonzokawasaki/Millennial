@@ -1,4 +1,3 @@
-## Tinkercad
 
 ---
 layout: post
