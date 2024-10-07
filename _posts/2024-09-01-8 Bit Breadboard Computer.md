@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Mudbox Sculpting"
+title: "8 Bit Breadbaord"
 author: "Gonzo"
 categories: posts
-tags: [sculpting, 3D modelling, Danny Trejo]
+tags: [8bit]
 image: 0781024breadboardcomp.jpg
 ---
 
