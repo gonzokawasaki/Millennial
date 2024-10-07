@@ -1,4 +1,11 @@
-## Old SFX Video 
+---
+layout: post
+title: "SFX Compositing"
+author: "Gonzo"
+categories: posts
+tags: [SFX, Compositing]
+image: 071024impwalker.jpg
+---
 
 As part of an animation and games design course I taught on in the UK me and the students had a go at doing some SFX compositing. This was pretty time consuming even with Mac Xeon towers.
 
