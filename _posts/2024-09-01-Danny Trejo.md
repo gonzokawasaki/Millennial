@@ -4,7 +4,7 @@ title: "Mudbox Sculpting"
 author: "Gonzo"
 categories: posts
 tags: [sculpting, 3D modelling, Danny Trejo]
-image: 0781024dannytrejo.jpg
+image: 071024dannytrejo.jpg
 ---
 
 This is a model I did of Danny Trejo back in 2012 when I was teaching in London.
