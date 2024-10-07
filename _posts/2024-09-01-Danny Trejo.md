@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mudbox Sculpting"
+title: "Danny Trejo"
 author: "Gonzo"
 categories: posts
 tags: [sculpting, 3D modelling, Danny Trejo]
