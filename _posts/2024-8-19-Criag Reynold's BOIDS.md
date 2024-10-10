@@ -1,5 +1,13 @@
+---
+layout: post
+title: "Craig Reynolds Boids"
+author: "Gonzo"
+categories: posts
+tags: [kinect, boids, OFx ]
+image: 101024boids.png
+---
 
-## BOIDS
+
 
 When completing my Masters at Ravensbourne I created some interactive pieces using OpenFrameworks. I have to say I absolutely love the forgiving nature of OFx. You can hack away at the code without really breaking anything. It is great fun to work with and more like scripting than working with C++. For the most part you work with already existing libraries and hack away inside the example code.
 
