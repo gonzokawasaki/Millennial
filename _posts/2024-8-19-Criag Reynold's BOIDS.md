@@ -19,4 +19,7 @@ The algorithm can be rendered in 2D or 3D. All done on an on an old white MacBoo
 
 [![Watch the video](https://img.youtube.com/vi/_1gJGcGJG4o/0.jpg)](https://www.youtube.com/watch?v=_1gJGcGJG4o)
 
+[![Watch the video](https://img.youtube.com/vi/_AEtaEHSl3BA/0.jpg)](https://www.youtube.com/watch?v=AEtaEHSl3BA)
+
+
 
